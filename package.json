@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "an ecommerce site designed to sell dream potions",
   "engines": {
-    "node": ">= 7.0.0"
+    "node": "14.x"
   },
   "main": "index.js",
   "scripts": {
